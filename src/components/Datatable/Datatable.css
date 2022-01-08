@@ -1,0 +1,19 @@
+.table-conteiner {
+	overflow: auto;
+	position: relative;
+}
+
+.table{
+    margin: 50px 100px 0;
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+
+.table__head {
+    border: 3px solid rgb(81, 161, 226);
+}
+
+.table__cell {
+    border: 3px solid rgb(81, 161, 226);
+    padding: 20px;
+}
